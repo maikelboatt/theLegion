@@ -1,0 +1,20 @@
+Head First JavaScript
+
+Chapter 1.  Getting your feet wet =>
+This is the first chapter of this book hence contains the fundamentals of javascript which includes
+statements, expressions, variables and its values. It also contains some data types such as 
+string, integers and booleans. We also learn what coditions are and the while loop. Later on
+we look at how to add codes to the pages which entails the console.log().
+
+Chapter 2. Going further =>
+We build a battleShip game in this chapter and the codes can be found in the Polaris/Projects/
+theLegion/battleShip folder.
+We use some inbuilt function such as alert(), prompt(), Math.floor() and the Math.random()
+
+Chapter 3. Getting Functional =>
+This chapter is entirely about functions. Firstly it teaches us why functions are important, then
+shows us the syntax for creating functions. Also it teaches us how to invoke a function and pass 
+arguments to it then how to return something from a function. Then how to trace through a function
+with a return statement. Finally it teaches the scope about variables to know whether they are 
+global variables or local variables.
+
